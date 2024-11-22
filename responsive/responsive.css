@@ -1,0 +1,35 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+   .header{
+      width: 100%;
+   }
+   .contact{
+    display: none;
+   }
+   .header-inner{
+      justify-content: center;
+   }
+
+   .inner-ban{
+      flex-direction: column;
+      margin: 10px 10px;
+   }
+
+   .ban-right{
+      margin-bottom: 20px;
+   }
+
+   .pack-vids{
+      align-items: center;
+   }
+
+   .vids{
+      flex-basis: 80%;
+      margin-left: 10%;
+   }
+
+   .services-info{
+      flex-basis: 80%;
+      margin-left: 10%;
+   }
+}
+
